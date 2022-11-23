@@ -163,10 +163,18 @@ ul {
   padding-bottom: 3.5rem;
 }
 
+#hero .spanish h1 {
+  padding-top: 4.8rem;
+} 
+
 #hero .description {
   font-size: 1.8rem;
   font-weight: var(--medium-500);
   padding-bottom: 5rem;
+}
+
+#hero .spanish a {
+  margin-top: -2rem;
 }
 
 /*--------------- COMO-FUNCIONA SECTION -----------*/
