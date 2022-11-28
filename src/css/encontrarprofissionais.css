@@ -156,13 +156,12 @@ body {
 }
 
 .filter-card {
-  width: 80%;
+  width: 100%;
   padding: 3.5rem 2.2rem;
 
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left:6rem;
   gap: 2.1rem;
 
   border-radius: 16px;
@@ -375,6 +374,10 @@ font-weight: var(--bold-700);
   font-size: 1.2rem;
 
   text-transform: uppercase;
+}
+
+.right-info #last{
+ margin-bottom: 8rem;
 }
 
 .right-info-profile .price {
